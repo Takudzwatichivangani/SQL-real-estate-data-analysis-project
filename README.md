@@ -63,8 +63,6 @@ The final SQL scripts generate key analytical reports and summary tables includi
 
 | View Name | Description |
 |------------|--------------|
-| **`gold.report_property_sales`** | Tracks property sales performance by city, property type, and state |
-| **`gold.report_agents`** | Evaluates and ranks agents by total revenue and transaction count |
 | **`gold.report_clients`** | Segments clients by lifetime value, recency, and purchasing behavior |
 
 ---
@@ -84,6 +82,3 @@ The final SQL scripts generate key analytical reports and summary tables includi
 - Exposed **seasonal and monthly trends** to assist in market timing and forecasting  
 - Provided a foundation for **advanced data-driven real estate analysis**
 
----
-   ```bash
-   git clone https://github.com/<your-username>/real-estate-sql-analysis.git
